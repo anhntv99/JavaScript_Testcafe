@@ -1,0 +1,17 @@
+{
+    "Destination": "Da Nang",
+    "CheckInDate":"04/11/2023",
+    "CheckOutDate":"04/17/2023",
+    "Traveler":"Family travelers",
+    "RoomNumber":2,
+    "AdultNumber":4,
+    "ChildrenNumber":0,
+    "NumberOfHotel": 5,
+    "MinPriceFilter": "500000",
+    "MaxPriceFilter": "1000000",
+    "Starrating":[3,4],
+    "Facilitites": ["Non-smoking"],
+    "HotelNo": 1,
+    "ReviewName": ["Cleanliness","Facilities","Location","Service","Value for money"]
+
+}
